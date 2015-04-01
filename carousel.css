@@ -7,6 +7,11 @@ body {
   color: #5a5a5a;
 }
 
+p {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */

@@ -38,6 +38,13 @@ p {
   width: auto;
 }
 
+#logo {
+  position: absolute;
+  height: 50px;
+  width: 141px;
+  margin-left: 650px;
+}
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
